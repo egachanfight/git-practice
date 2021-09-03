@@ -10,3 +10,4 @@
 # conflict 上で修正（コンフリクトが発生する）
 
 # rebase-practiceで修正
+fugafuga
