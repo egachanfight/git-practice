@@ -11,3 +11,5 @@
 
 # rebase-practiceで修正
 fugafuga
+
+♯ rebase用
